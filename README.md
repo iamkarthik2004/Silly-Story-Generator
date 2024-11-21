@@ -1,6 +1,6 @@
 # Silly-Story-Generator
 
-Hosted Link:
+Hosted Link: https://iamkarthik2004.github.io/Silly-Story-Generator/
 
 Mulearn Level 4:
 
